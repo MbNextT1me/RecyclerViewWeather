@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Weather App</string>
+    <string name="title">Type the city and find out the weather!</string>
+    <string name="api_key">26dcbaa2166e40cba6b94a096b6af992</string>
+    <string name="city_for_search">Type city name…</string>
+    <string name="search">search</string>
+</resources>
